@@ -1,0 +1,815 @@
+{
+ "_note": "Authored body records (shape numbers only) with name-free graphs. Colour is the verdict colour.",
+ "bodies": {
+  "a": {
+   "colour": [
+    255,
+    106,
+    61
+   ],
+   "execution": {
+    "outcome": "Rejected",
+    "progress": 1,
+    "fuelRatio": 1,
+    "stackRatio": 0,
+    "nodeWeights": [
+     1
+    ]
+   },
+   "graph": {
+    "nodes": [
+     {
+      "id": "n0",
+      "op": "literal",
+      "inputs": []
+     }
+    ]
+   },
+   "record": {
+    "model": "woven-field-experimental",
+    "mechanism": "phyllotaxis-fan",
+    "seed": 372108611,
+    "topology": {
+     "depth": 1,
+     "fanout": 0,
+     "convergence": 0,
+     "guards": 0,
+     "effects": 0
+    },
+    "strands": 8,
+    "folds": 3,
+    "turns": 1.491,
+    "territories": [
+     {
+      "node": "n0",
+      "component": 0,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 1,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 2,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 3,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 4,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 5,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 6,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 7,
+      "u": [
+       0,
+       1
+      ]
+     }
+    ],
+    "geometry": {
+     "growth": 0.2588722688119056,
+     "spread": 0.6737301062070644,
+     "curl": 0.7299066859547808,
+     "asymmetry": 0.18974291194627774,
+     "offset": 3.6119956968545104,
+     "frequency": 4,
+     "lobes": 3,
+     "twist": 1.9767661727729977,
+     "whorls": 2,
+     "material": {
+      "model": "projected-compression",
+      "rows": 48,
+      "columns": 15,
+      "focus": 2.088,
+      "quiet": 0.09,
+      "gain": 0.643
+     }
+    }
+   }
+  },
+  "b": {
+   "colour": [
+    255,
+    106,
+    61
+   ],
+   "execution": {
+    "outcome": "Rejected",
+    "progress": 1,
+    "fuelRatio": 1,
+    "stackRatio": 0,
+    "nodeWeights": [
+     1
+    ]
+   },
+   "graph": {
+    "nodes": [
+     {
+      "id": "n0",
+      "op": "literal",
+      "inputs": []
+     }
+    ]
+   },
+   "record": {
+    "model": "woven-field-experimental",
+    "mechanism": "phyllotaxis-fan",
+    "seed": 1272759771,
+    "topology": {
+     "depth": 1,
+     "fanout": 0,
+     "convergence": 0,
+     "guards": 0,
+     "effects": 0
+    },
+    "strands": 8,
+    "folds": 3,
+    "turns": 1.3575,
+    "territories": [
+     {
+      "node": "n0",
+      "component": 0,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 1,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 2,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 3,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 4,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 5,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 6,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 7,
+      "u": [
+       0,
+       1
+      ]
+     }
+    ],
+    "geometry": {
+     "growth": 0.23149725992724063,
+     "spread": 0.7858107842278217,
+     "curl": 0.9738358531965715,
+     "asymmetry": 0.13101750930904354,
+     "offset": 0.6469113511260506,
+     "frequency": 3,
+     "lobes": 4,
+     "twist": 1.4442384192524782,
+     "whorls": 2,
+     "material": {
+      "model": "projected-compression",
+      "rows": 48,
+      "columns": 15,
+      "focus": 2.068,
+      "quiet": 0.085,
+      "gain": 0.549
+     }
+    }
+   }
+  },
+  "e": {
+   "colour": [
+    62,
+    224,
+    208
+   ],
+   "execution": {
+    "outcome": "Done",
+    "progress": 1,
+    "fuelRatio": 1,
+    "stackRatio": 0,
+    "nodeWeights": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "graph": {
+    "nodes": [
+     {
+      "id": "n0",
+      "op": "literal",
+      "inputs": []
+     },
+     {
+      "id": "n1",
+      "op": "literal",
+      "inputs": [
+       "n0"
+      ]
+     },
+     {
+      "id": "n2",
+      "op": "literal",
+      "inputs": [
+       "n1"
+      ]
+     },
+     {
+      "id": "n3",
+      "op": "literal",
+      "inputs": [
+       "n1"
+      ]
+     }
+    ]
+   },
+   "record": {
+    "model": "woven-field-experimental",
+    "mechanism": "recursive-julia",
+    "seed": 1421861279,
+    "topology": {
+     "depth": 3,
+     "fanout": 2,
+     "convergence": 1,
+     "guards": 0,
+     "effects": 0
+    },
+    "strands": 9,
+    "folds": 4,
+    "turns": 1.8728,
+    "territories": [
+     {
+      "node": "n0",
+      "component": 0,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 1,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 2,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 3,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 4,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 5,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 6,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 7,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 8,
+      "u": [
+       0,
+       1
+      ]
+     }
+    ],
+    "geometry": {
+     "model": "quadratic-julia",
+     "parameter": [
+      -0.7218,
+      0.1868
+     ],
+     "grid": 192,
+     "iterations": 60,
+     "escape": 2,
+     "bounds": [
+      -1.55,
+      1.55,
+      -1.2,
+      1.2
+     ],
+     "levels": [
+      3,
+      5,
+      8,
+      12,
+      18,
+      26,
+      36,
+      48
+     ],
+     "embedding": {
+      "scale": [
+       0.3607021107152104,
+       0.45972367348149423
+      ],
+      "warp": [
+       0.09324361097067596,
+       0.08624210411449894
+      ],
+      "frequency": [
+       2.16,
+       2.1999999999999997
+      ],
+      "shear": -0.06956716201268137
+     }
+    }
+   }
+  },
+  "d": {
+   "colour": [
+    62,
+    224,
+    208
+   ],
+   "execution": {
+    "outcome": "Done",
+    "progress": 1,
+    "fuelRatio": 1,
+    "stackRatio": 0,
+    "nodeWeights": [
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "graph": {
+    "nodes": [
+     {
+      "id": "n0",
+      "op": "literal",
+      "inputs": []
+     },
+     {
+      "id": "n1",
+      "op": "literal",
+      "inputs": []
+     },
+     {
+      "id": "n2",
+      "op": "literal",
+      "inputs": [
+       "n0"
+      ]
+     },
+     {
+      "id": "n3",
+      "op": "literal",
+      "inputs": [
+       "n0",
+       "n1"
+      ]
+     }
+    ]
+   },
+   "record": {
+    "model": "woven-field-experimental",
+    "mechanism": "recursive-julia",
+    "seed": 2565620374,
+    "topology": {
+     "depth": 2,
+     "fanout": 2,
+     "convergence": 2,
+     "guards": 0,
+     "effects": 0
+    },
+    "strands": 10,
+    "folds": 5,
+    "turns": 1.7398,
+    "territories": [
+     {
+      "node": "n0",
+      "component": 0,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 1,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 2,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 3,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 4,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 5,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 6,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 7,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 8,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 9,
+      "u": [
+       0,
+       1
+      ]
+     }
+    ],
+    "geometry": {
+     "model": "quadratic-julia",
+     "parameter": [
+      -0.3949,
+      0.5976
+     ],
+     "grid": 192,
+     "iterations": 56,
+     "escape": 2,
+     "bounds": [
+      -1.55,
+      1.55,
+      -1.2,
+      1.2
+     ],
+     "levels": [
+      3,
+      5,
+      8,
+      12,
+      18,
+      26,
+      36,
+      48
+     ],
+     "embedding": {
+      "scale": [
+       0.3919733236171305,
+       0.41537924200296406
+      ],
+      "warp": [
+       0.08584021075628698,
+       0.10531478437129407
+      ],
+      "frequency": [
+       2.04,
+       2.1999999999999997
+      ],
+      "shear": -0.060874724616296595
+     }
+    }
+   }
+  },
+  "c": {
+   "colour": [
+    62,
+    224,
+    208
+   ],
+   "execution": {
+    "outcome": "Done",
+    "progress": 1,
+    "fuelRatio": 1,
+    "stackRatio": 0,
+    "nodeWeights": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   "graph": {
+    "nodes": [
+     {
+      "id": "n0",
+      "op": "literal",
+      "inputs": []
+     },
+     {
+      "id": "n1",
+      "op": "literal",
+      "inputs": [
+       "n0"
+      ]
+     },
+     {
+      "id": "n2",
+      "op": "literal",
+      "inputs": [
+       "n0"
+      ]
+     },
+     {
+      "id": "n3",
+      "op": "literal",
+      "inputs": [
+       "n0"
+      ]
+     },
+     {
+      "id": "n4",
+      "op": "literal",
+      "inputs": [
+       "n1"
+      ]
+     }
+    ]
+   },
+   "record": {
+    "model": "woven-field-experimental",
+    "mechanism": "recursive-julia",
+    "seed": 2640245348,
+    "topology": {
+     "depth": 3,
+     "fanout": 3,
+     "convergence": 1,
+     "guards": 0,
+     "effects": 0
+    },
+    "strands": 10,
+    "folds": 4,
+    "turns": 1.7379,
+    "territories": [
+     {
+      "node": "n0",
+      "component": 0,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 1,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 2,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 3,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n4",
+      "component": 4,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n0",
+      "component": 5,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n1",
+      "component": 6,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n2",
+      "component": 7,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n3",
+      "component": 8,
+      "u": [
+       0,
+       1
+      ]
+     },
+     {
+      "node": "n4",
+      "component": 9,
+      "u": [
+       0,
+       1
+      ]
+     }
+    ],
+    "geometry": {
+     "model": "quadratic-julia",
+     "parameter": [
+      0.2842,
+      0.008
+     ],
+     "grid": 192,
+     "iterations": 60,
+     "escape": 2,
+     "bounds": [
+      -1.55,
+      1.55,
+      -1.2,
+      1.2
+     ],
+     "levels": [
+      3,
+      5,
+      8,
+      12,
+      18,
+      26,
+      36,
+      48
+     ],
+     "embedding": {
+      "scale": [
+       0.38896608797833326,
+       0.45647757295519115
+      ],
+      "warp": [
+       0.08550433867610992,
+       0.07097196345217525
+      ],
+      "frequency": [
+       2.16,
+       2.3499999999999996
+      ],
+      "shear": -0.01604783413466066
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+.DS_Store
+node_modules/
+reproduce/.cache/
+reproduce/out/
+*.gif
+*.mp4
+*.webm

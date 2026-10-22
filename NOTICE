@@ -3,3 +3,5 @@ Copyright 2026 Evgeny Bob
 
 This project builds on Quinelings (https://github.com/CharlesHoskinson/quinelings),
 Copyright Charles Hoskinson, licensed under the Apache License 2.0.
+Quinelings files are downloaded at build time from a pinned commit and are not
+redistributed in this repository.
